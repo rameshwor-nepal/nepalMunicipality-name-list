@@ -1,9 +1,9 @@
 municipality name format is : <br />
 const MunicipalityList = [ <br />
  { <br />
-        "district": "districtName",
-        "province": "provinceName",
-        "municipality": "municipalityName"
+        "district": "districtName", <br />
+        "province": "provinceName", <br />
+        "municipality": "municipalityName" <br />
     }, <br />
     {<br />
     },........<br />
